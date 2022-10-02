@@ -1,5 +1,5 @@
-WELCOME TO MY WORLD
-https://www.holopin.io/@blindcodesam17
+                                                            WELCOME TO MY CODE WORLD
+[![@blindcodesam17's Holopin board](https://holopin.io/api/user/board?user=blindcodesam17)](https://holopin.io/@blindcodesam17)
 
 - 👋 Hi, I’m Samuel Sibuea
 - 👀 I’m interested in Java
