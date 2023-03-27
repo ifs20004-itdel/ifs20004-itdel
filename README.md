@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in **Java and Web Development**
 
-- 🌱 I’m currently learning **Spring Boot, Bootstrap, and Laravel**
+- 🌱 I’m currently learning **Spring Boot, Tailwind, Android Development using Kotlin, and Laravel**
 
 - 📫 How to reach me **samuelsibuea82@gmail.com**
 
