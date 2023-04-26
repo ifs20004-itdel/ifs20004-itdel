@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifs20004-itdel" alt="ifs20004-itdel" /></a> </p>
 
-- 👀 I’m interested in **Java and Web Development**
+- 👀 I’m interested in **Java and Software Development**
 
 - 🌱 I’m currently learning **Spring Boot, Tailwind, Android Development using Kotlin, and Laravel**
 
