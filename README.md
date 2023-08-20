@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Android Development**
 
-- 👯 I’m currently collaborate with **Bangkit Academy**
+- 👯 I’m currently an intern at **Astra Honda Motor Company** 
 
 - 📫 How to reach me **samuelsibuea82@gmail.com**
 
