@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate from Del Institute of Technology.</h3>
 
 
-[![@blindcodesam17's Holopin board](https://holopin.io/api/user/board?user=blindcodesam17)](https://holopin.io/@blindcodesam17)
+[![An image of @blindcodesam17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blindcodesam17)](https://holopin.io/@blindcodesam17)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifs20004-itdel&show_icons=true&theme=radical)
 
