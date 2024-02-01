@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Android Development**
 
-- 👯 I’m currently an intern at **Astra Honda Motor Company** 
+- 👯 I’m currently **focusing on my final project**
 
 - 📫 How to reach me **samuelsibuea82@gmail.com**
 
