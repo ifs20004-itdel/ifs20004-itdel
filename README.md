@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samuel I. H. Sibuea</h1>
-<h3 align="center">Undergraduate from Del Institute of Technology.</h3>
+<h3 align="center">Fresh Grad Del Institute of Technology.</h3>
 
 
 [![An image of @blindcodesam17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blindcodesam17)](https://holopin.io/@blindcodesam17)
