@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifs20004-itdel" alt="ifs20004-itdel" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot & Android Development**
-
-- 👯 I’m currently **focusing on my final project**
+- 🌱 Curious learner, **Backend Engineer, Cloud & Android Development**
 
 - 📫 How to reach me **samuelsibuea82@gmail.com**
 
