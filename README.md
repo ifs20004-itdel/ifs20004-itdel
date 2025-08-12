@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifs20004-itdel" alt="ifs20004-itdel" /></a> </p>
 
-- 🌱 Curious learner, **Backend Engineer, Cloud & Android Development**
+- 🌱 Curious learner, **Backend Engineer, Data Engineer, Cloud & Android**
 
 - 📫 How to reach me **samuelsibuea82@gmail.com**
 
